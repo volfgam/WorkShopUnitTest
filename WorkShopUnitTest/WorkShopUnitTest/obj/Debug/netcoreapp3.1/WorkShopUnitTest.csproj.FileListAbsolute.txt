@@ -1,0 +1,7 @@
+C:\Users\marcus.braga.LINX-INVES\source\repos\WorkShopUnitTest\WorkShopUnitTest\WorkShopUnitTest\bin\Debug\netcoreapp3.1\WorkShopUnitTest.deps.json
+C:\Users\marcus.braga.LINX-INVES\source\repos\WorkShopUnitTest\WorkShopUnitTest\WorkShopUnitTest\bin\Debug\netcoreapp3.1\WorkShopUnitTest.dll
+C:\Users\marcus.braga.LINX-INVES\source\repos\WorkShopUnitTest\WorkShopUnitTest\WorkShopUnitTest\bin\Debug\netcoreapp3.1\WorkShopUnitTest.pdb
+C:\Users\marcus.braga.LINX-INVES\source\repos\WorkShopUnitTest\WorkShopUnitTest\WorkShopUnitTest\obj\Debug\netcoreapp3.1\WorkShopUnitTest.AssemblyInfoInputs.cache
+C:\Users\marcus.braga.LINX-INVES\source\repos\WorkShopUnitTest\WorkShopUnitTest\WorkShopUnitTest\obj\Debug\netcoreapp3.1\WorkShopUnitTest.AssemblyInfo.cs
+C:\Users\marcus.braga.LINX-INVES\source\repos\WorkShopUnitTest\WorkShopUnitTest\WorkShopUnitTest\obj\Debug\netcoreapp3.1\WorkShopUnitTest.dll
+C:\Users\marcus.braga.LINX-INVES\source\repos\WorkShopUnitTest\WorkShopUnitTest\WorkShopUnitTest\obj\Debug\netcoreapp3.1\WorkShopUnitTest.pdb
